@@ -1,6 +1,6 @@
-#Knight's tour
-##Salto del caballo
-##Salt del cavall
+# Knight's tour
+## Salt del cavall
+## Salto del caballo
 
 Small app in VB6 that accomplish the Knight's tour
 
